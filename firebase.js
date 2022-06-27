@@ -3,13 +3,13 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyCXLuEfbwH8_5KrLZZhdjCUVe5IldGBbPg",
-  authDomain: "serviciosdecuidado-72b78.firebaseapp.com",
-  projectId: "serviciosdecuidado-72b78",
-  storageBucket: "serviciosdecuidado-72b78.appspot.com",
-  messagingSenderId: "27725666319",
-  appId: "1:27725666319:web:2362df6233131226d7ab7a",
-  measurementId: "G-42J94ZL6H1"
+  apiKey: "AIzaSyCuvbUG9b0QKlb_f9cUavhT2iUi2XmHr0Q",
+  authDomain: "shopping-list-1d506.firebaseapp.com",
+  databaseURL: "https://shopping-list-1d506.firebaseio.com",
+  projectId: "shopping-list-1d506",
+  storageBucket: "shopping-list-1d506.appspot.com",
+  messagingSenderId: "219622571466",
+  appId: "1:219622571466:web:00e79a532fe70858f96333"
 };
 
 // Initialize Firebase
